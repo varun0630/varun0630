@@ -10,6 +10,7 @@ I'm Varun Venkatesh, an aspiring Software Engineer, with a great love for techno
 💬 Ask me about anything related to **TypeScript, Node.js, Python, React**
 
 ⚡ Fun fact **I love lengthy discussions about Movies and Abstract ideas such as Time**
+
 ✉️  You can react me at [venka122@purdue.edu](mailto:venka122@purdue.edu)
 
 <h3 align="left">Connect with me:</h3>
